@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+
+}
+
+h1, h2, h3, p, small {
+  font-family: sans-serif;
+}
+
+nav {
+  background-color: white;
+  padding: 20px 50px 20px;
+  margin: 0 auto;
+}
+
+.brand {
+  padding: 5px 20px;
+  border-radius: 10%;
+}
+
+.bike-home {
+  width: 100%;
+
+}
+
+.about  {
+  text-align: center;
+  margin: 100px auto;
+  margin-bottom: 100px;
+  width: 50%;
+  background-color: blue;
+
+
+}
+
+.profile {
+    margin-top: 100px;
+    position: relative;
+    height: 200px;
+}
+
+.kanna {
+  height: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 20px;
+
+}
+
+.profile-description {
+  text-align: left;
+  padding-top: 30px;
+  background-color: red;
+  paddin-bottom:100px;
+
+
+}
+
+.bicycle {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+
+}
+
+.bicycle h1{
+  padding-bottom: 100px;
+
+}
+
+.bicycle img {
+  object-fit: cover;
+
+}
+
+.card {
+  padding: 5px;
+  margin: 0 20px;
+  border-style: none;
+}
+
+.footer {
+  height: 100px;
+  background-color: #F1EEE9;
+  text-align: center;
+}
+
+.footer p {
+  padding-top: 35px;
+}
+
+.footer p small{
+  color: #73777B;
+
+}
